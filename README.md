@@ -1,9 +1,11 @@
 # Getting started with Anomali Copilo
 Anomali Copilot gives you AI-Powered Visibility for Security, IT, and Fraud Detection. The objective of the RM here is to get started Anomali Copilot with your ThreatStream organization withing 15min!
 <br>
+<br>
 
 ## Prerequisite
 You have Chrome browser, and have already signed-in your ThreatStreat organization with the browser. If you don't have your ThreatStream account, contact with your [Anomali representatives](https://www.anomali.com/contact).
+<br>
 <br>
 
 
