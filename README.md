@@ -1,4 +1,4 @@
-# Getting started with Anomali Copilo
+# Getting started with Anomali Copilot
 Anomali Copilot gives you AI-Powered Visibility for Security, IT, and Fraud Detection. The objective of the RM here is to get started Anomali Copilot with your ThreatStream organization withing 15min!
 <br>
 <br>
