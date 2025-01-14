@@ -9,7 +9,7 @@ You have Chrome browser, and have already signed-in your ThreatStreat organizati
 <br>
 
 
-## Getting started!
+## Hands-on
 Install [Copilot chrome extension](https://chromewebstore.google.com/detail/anomali-copilot/ghmbpcmonklliphfbkdbedkdkilfbngm) on your browser.
 <br>
 Visit a sample security articles that has some IoCs(e.g. domain, IP, malware), and scan it with Copilot. I'm scanning [an article](https://www.govinfosecurity.com/japanese-businesses-hit-by-surge-in-ddos-attacks-a-27216) that tells us that majority Japanese financial sector customers have been impacted with huge DDoS attacks.
